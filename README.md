@@ -1,0 +1,2 @@
+# Szakdolgozat
+uni of Miskolc
