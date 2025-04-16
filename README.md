@@ -1,2 +1,2 @@
 # Szakdolgozat
-uni of Miskolc
+Szakdolgozat verziókövetése.
