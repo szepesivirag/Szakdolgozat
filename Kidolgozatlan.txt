@@ -1,1 +1,26 @@
 
+
+
+1. Fejezet:
+  Bevezetés 
+    Jelenlegi rohanó világunkban hajlandóak vagyunk megfeledkezni az őseink által ránk hagyott örökségekről, mint például a hagyományaink. Én személyesen a tánc, mint kultúra iránt éreztem főként vonzalmat, amit gyermekkorom óta művelek. E technika központú világban azonban ez a kultúra-szektor is - megfelelő odafigyeléssel – beilleszkedhet az informatika nyújtotta vívmányokba. Elengedhetetlennek tartom, hogy ha azt szeretnénk életünk ezen részeit ápolni és fenntartani akkor figyelmet kell fordítsunk a néha-néha elfeledett múltban gyökerező kultúránkra.
+A rendezvényszervezés és a nyilvántartás a kulturális és művészeti csoportok számára kiemelkedő súllyal bír, hiszen ezen tevékenységek hatékony koordinálása alapvetően befolyásolja a csoport működését és sikerét. A Mezőkövesden tevékenykedő Matyó Táncegyüttes, amely a magyar néptánc hagyományainak megélését és népszerűsítését tűzte ki célul, egy olyan közösséget alkot, amely rendszeresen kap felkéréseket előadásokra, fellépésekre és egyéb kulturális rendezvényekre. Az ilyen típusú események zökkenőmentes lebonyolításához nem csupán a művészeti szempontok, hanem a pontos adminisztráció és nyilvántartás, valamint a gördülékeny kommunikáció is elengedhetetlenek.
+A hagyományos kézi nyilvántartási rendszerek, amiket például a jelenben is alkalmaznak vezetőink elavultak, nem nyomon követhetők (általában papír alapúak vagy egyszerű táblázatok) és ez gyakran nem elégséges ahhoz, hogy egy táncegyüttes komplex tevékenységeit megfelelően átlátható módon követhessük. Emellett az adatok gyors, egyszerű és hibamentes kezelésére is szükség van, hogy minden fellépés, rendezvény és kapcsolódó tevékenység gördülékenyen valósulhasson meg.
+A szakdolgozat célja egy olyan rendezvényszervező és nyilvántartó alkalmazás megtervezése és elkészítése, amely a speciálisan a Matyó Táncegyüttes számára segíthet a mindennapi adminisztratív feladatok egyszerűsítésében és a rendezvények hatékony menedzselésében. Az alkalmazás fejlesztése során figyelembe kell venni a táncegyüttes sajátos igényeit, mint például az előadások szervezését, a fellépő tagok nyilvántartását, az eseményekhez kapcsolódó logisztikai feladatok kezelését, valamint a résztvevőkkel való kommunikáció egyszerűsítését. Fontos, hogy felhasználóbarát legyen mert a közösség több tekintetben széles spektrumon mozog, mint például az életkor, valamint az informatikai tudásban is nagy a szórás. 
+A dolgozatban először összegyűjtöm és bemutatom a hasonló potenciálokkal rendelkező együttesek weblapjait és alkalmazásait
+BLABLABLA
+ Ezt követően a Matyó Táncegyüttes igényeit felmérve és a legmodernebb technológiai megoldásokat alkalmazva vázolom az alkalmazás tervezési fázisát, a fejlesztés részleteit és a várható működési eredményeket. A cél egy könnyen kezelhető, felhasználóbarát rendszer megvalósítása, amely nemcsak időt és energiát spórol, hanem hozzájárul a táncegyüttes sikeres működéséhez is.
+
+
+
+
+
+Az ilyen honlapok bemutatása (rendezvényszervező és nyilvántartó alkalmazások):
+Ezek összehasonlítása
+
+
+A matyó táncegyüttes bemutatása:
+	
+A matyó jelenlegi oldala:	
+	miért nem jó
+
