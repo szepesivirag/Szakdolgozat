@@ -1,4 +1,7 @@
-
+Fix legyen benne köszönetnyilvánítás és mottó.
+Köszönet: 
+	piller,
+… ha legvégül össze kellene foglalnom a sikereim okát, csak annyit mondanék, hogy mindig én akartam jobban. Ez az én tehetségem.”
 
 
 1. Fejezet:
@@ -11,16 +14,29 @@ A dolgozatban először összegyűjtöm és bemutatom a hasonló potenciálokkal
 BLABLABLA
  Ezt követően a Matyó Táncegyüttes igényeit felmérve és a legmodernebb technológiai megoldásokat alkalmazva vázolom az alkalmazás tervezési fázisát, a fejlesztés részleteit és a várható működési eredményeket. A cél egy könnyen kezelhető, felhasználóbarát rendszer megvalósítása, amely nemcsak időt és energiát spórol, hanem hozzájárul a táncegyüttes sikeres működéséhez is.
 
-
-
-
-
+Tervezett:
 Az ilyen honlapok bemutatása (rendezvényszervező és nyilvántartó alkalmazások):
 Ezek összehasonlítása
-
-
 A matyó táncegyüttes bemutatása:
 	
 A matyó jelenlegi oldala:	
 	miért nem jó
+
+
+
+2. Elméleti háttér és szakirodalmi áttekintés
+2.1 A hagyományőrzés és a néptánc szerepe a digitális korban
+A néptánc nem csupán művészeti kifejezésmód, hanem egyfajta kulturális örökség is, amely generációról generációra öröklődik. A jelen generációt pedig az informatikai eszközök segítségével lehet a legjobban megfogni. Az utóbbi években egyre nagyobb figyelmet kap a hagyományőrzés digitalizálása, hiszen a modern technológia lehetőséget ad arra, hogy a kulturális értékek ne csak fennmaradjanak, hanem szélesebb közönséghez is eljuthassanak. A Matyó emberek több ízben próbálták ezt megvalósítani, például 3D-ben kivetített mozgóképeket képeztek le, valamint igyekeznek jelen lenni a közösségi médiában is.
+A digitális megjelenés, különösen egy weboldal formájában, segít abban, hogy a közösségek könnyebben elérhetők legyenek az érdeklődők számára, valamint egyszerűsíti az információk megosztását, a rendezvények hirdetését és az archív anyagok (pl. képek, videók) tárolását is. Itt megjegyzendő, hogy az egyel idősebb generáció szívesebben böngészik weblap felületeket mintsem a közösségi média felületeit. A néptáncegyüttesek szempontjából ez különösen is fontos, hiszen gyakran nemcsak szórakoztatnak, hanem oktatási és közösségformáló szerepet is betöltenek. A hagyományőrzés tehát nem csupán a múlt értékeinek megóvását jelenti, hanem azok korszerű eszközökkel való újra értelmezését is, ezzel pedig terjesztését.
+
+2.2 A webes jelenlét szerepe a kulturális csoportok életében
+A webes jelenlét napjainkban elengedhetetlenné vált minden szervezet számára, így a kulturális és művészeti csoportok esetében is. Egy jól felépített és karbantartott weboldal lehetőséget biztosít:
+•	az események kommunikációjára (pl. fellépések, próbák),
+•	kapcsolatfelvételre az érdeklődőkkel vagy szervezőkkel,
+•	a csoport tevékenységének dokumentálására,
+•	és nem utolsó sorban a közösségépítésre.
+Sok esetben a közösségi média is fontos szerepet tölt be, azonban egy hivatalos weboldal letisztult, strukturált és könnyen kereshető felületet biztosít, amelyre például rendezvényszervezők vagy új tagok is támaszkodhatnak. Jelen esetben is ezzel céllal készül és halad előre ez a projekt, hogy megkönnyítse a kommunikációt a tagok között, valamint segítsen az információ áramlásában.
+Több hazai és nemzetközi táncegyüttes is rendelkezik saját weboldallal, de ezek funkcionalitása és színvonala nagyban eltér. Van, ahol csak alapinformációk érhetők el, míg máshol eseménynaptár, jegyvásárlás, sőt online oktatási anyagok is megtalálhatók. Ez rávilágít arra, hogy a weboldal célja és célcsoportja meghatározza annak komplexitását.
+
+
 
