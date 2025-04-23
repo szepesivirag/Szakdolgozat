@@ -1,7 +1,3 @@
-Fix legyen benne köszönetnyilvánítás és mottó.
-Köszönet: 
-	piller,
-… ha legvégül össze kellene foglalnom a sikereim okát, csak annyit mondanék, hogy mindig én akartam jobban. Ez az én tehetségem.”
 
 
 1. Fejezet:
