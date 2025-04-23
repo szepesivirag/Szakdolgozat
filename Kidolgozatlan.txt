@@ -34,5 +34,40 @@ A webes jelenlét napjainkban elengedhetetlenné vált minden szervezet számár
 Sok esetben a közösségi média is fontos szerepet tölt be, azonban egy hivatalos weboldal letisztult, strukturált és könnyen kereshető felületet biztosít, amelyre például rendezvényszervezők vagy új tagok is támaszkodhatnak. Jelen esetben is ezzel céllal készül és halad előre ez a projekt, hogy megkönnyítse a kommunikációt a tagok között, valamint segítsen az információ áramlásában.
 Több hazai és nemzetközi táncegyüttes is rendelkezik saját weboldallal, de ezek funkcionalitása és színvonala nagyban eltér. Van, ahol csak alapinformációk érhetők el, míg máshol eseménynaptár, jegyvásárlás, sőt online oktatási anyagok is megtalálhatók. Ez rávilágít arra, hogy a weboldal célja és célcsoportja meghatározza annak komplexitását.
 
+A Matyó táncegyüttes:
+	A Matyó táncegyüttes egy Mezőkövesd szívében tevékenykedő, lassan hét évtizede őseink hagyatékát megélő csoport, aminek fő vállalása a helyi kultúra éltetése és megismertetése, valamint a közösség éltető szerepének erősítése, hogy a hagyományok és értékek átörökítése mellett új kapcsolódási pontokat is teremtsen a különböző generációk és csoportok között.
+Ezekhez elengedhetetlenek azok a programok, amik összekötik az együttest a közönséggel a családtagokkal-ismerősökkel és külvilággal. Az ilyesfajta események alakulhatnak külső megkeresés esetleg belső indíttatás alapján is, ám ezek rendszerezése nem könnyű feladat.
+Általában ez papíralapon, telefonkészüléken vagy primitív táblázatokban kerül vezetésre, ami sokszor nem célravezető és könnyen össze téveszthetőek belőle az adatok. Követni kell a tagok jelenlétét, az erre vonatkozó jövőbeli jelzéseket, a felkéréseket a felettünk álló egyesülettől és az ezekre érkező reakciókat a tagoktól, hogy képes-e elvállalni a fellépést a csoport. Számtalan dolog, amiből információkat kell kinyerni, statisztikákat készíteni és ezeket az érintettek számára elérhetővé kell tenni. 
+
+táblázatos formában:
+Hasonló táncegyüttesek:
+	Matyó táncegyüttes	Magyar Nemzeti táncegyüttes	Magyar állami táncegyüttes	Fitos Dezső Társulat
+Webhely	Matyó Táncegyüttes
+Magyar Nemzeti táncegyüttes
+Magyar Állami táncegyüttes
+Fitos Dezső Társulat
+
+Bejelentkezési felület	nincs	nincs	nincs	nincs
+Kezdőkép	lényegre törő	letisztult	informatív, részletgazdag	letisztult, menü
+Nyelvezet	HU/ENG	HU/ENG	HU/ENG	HU/ENG
+Elrendezés	•	felül cím,
+•	navbar,
+•	kép
+•	kifejtés
+•	footer	•	felül cím
+•	navbar
+•	„magunkról”
+•	hírek
+•	galéria
+•	footer	•	navbar-ok
+•	cím, kép
+•	csempék
+•	galéria
+•	footer	•	navbar
+•	bemutatkozás
+•	footer
+Keresés funkció	van	nincs	van 	van
+
+
 
 
